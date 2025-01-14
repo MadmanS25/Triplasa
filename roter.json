@@ -1,1 +1,3 @@
-'{"name":"John", "age":30, "car":null}'
+{
+    "clicked": "false"
+}

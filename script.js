@@ -1,7 +1,7 @@
 async function updateJSON() {
-    const token = 'YOUR_GITHUB_PERSONAL_ACCESS_TOKEN';  // replace with your actual token
-    const repo = 'username/repo';  // replace with your actual repo name
-    const path = 'path/to/status.json';  // replace with the actual path to your JSON file
+    const token = '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';  // replace with your actual token
+    const repo = 'MadmanS25/Triplasa';  // replace with your actual repo name
+    const path = 'main/roter.json';  // replace with the actual path to your JSON file
     const branch = 'main';  // replace with the branch name you want to update
 
     // Step 1: Fetch the current content of the JSON file (to get the SHA)
